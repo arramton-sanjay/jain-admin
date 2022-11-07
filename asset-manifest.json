@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/jain-samaj/admin/static/css/main.8d5f4ba3.css",
+    "main.js": "/jain-samaj/admin/static/js/main.037256ae.js",
+    "static/js/69.398b5f57.chunk.js": "/jain-samaj/admin/static/js/69.398b5f57.chunk.js",
+    "static/js/246.f0c0c7ad.chunk.js": "/jain-samaj/admin/static/js/246.f0c0c7ad.chunk.js",
+    "static/js/713.42344bfa.chunk.js": "/jain-samaj/admin/static/js/713.42344bfa.chunk.js",
+    "static/js/884.ddc684ef.chunk.js": "/jain-samaj/admin/static/js/884.ddc684ef.chunk.js",
+    "static/js/709.6187aed8.chunk.js": "/jain-samaj/admin/static/js/709.6187aed8.chunk.js",
+    "static/js/787.3ce4cc4d.chunk.js": "/jain-samaj/admin/static/js/787.3ce4cc4d.chunk.js",
+    "static/js/637.0edfc914.chunk.js": "/jain-samaj/admin/static/js/637.0edfc914.chunk.js",
+    "static/js/305.150a5384.chunk.js": "/jain-samaj/admin/static/js/305.150a5384.chunk.js",
+    "static/css/385.9c4bb65d.chunk.css": "/jain-samaj/admin/static/css/385.9c4bb65d.chunk.css",
+    "static/css/260.81cacc65.chunk.css": "/jain-samaj/admin/static/css/260.81cacc65.chunk.css",
+    "static/css/306.27e9652a.chunk.css": "/jain-samaj/admin/static/css/306.27e9652a.chunk.css",
+    "index.html": "/jain-samaj/admin/index.html",
+    "static/media/Craco.less": "/jain-samaj/admin/static/media/Craco.9d96a51de2d9ad3e15ec.less",
+    "main.8d5f4ba3.css.map": "/jain-samaj/admin/static/css/main.8d5f4ba3.css.map",
+    "main.037256ae.js.map": "/jain-samaj/admin/static/js/main.037256ae.js.map",
+    "69.398b5f57.chunk.js.map": "/jain-samaj/admin/static/js/69.398b5f57.chunk.js.map",
+    "246.f0c0c7ad.chunk.js.map": "/jain-samaj/admin/static/js/246.f0c0c7ad.chunk.js.map",
+    "713.42344bfa.chunk.js.map": "/jain-samaj/admin/static/js/713.42344bfa.chunk.js.map",
+    "884.ddc684ef.chunk.js.map": "/jain-samaj/admin/static/js/884.ddc684ef.chunk.js.map",
+    "709.6187aed8.chunk.js.map": "/jain-samaj/admin/static/js/709.6187aed8.chunk.js.map",
+    "787.3ce4cc4d.chunk.js.map": "/jain-samaj/admin/static/js/787.3ce4cc4d.chunk.js.map",
+    "637.0edfc914.chunk.js.map": "/jain-samaj/admin/static/js/637.0edfc914.chunk.js.map",
+    "305.150a5384.chunk.js.map": "/jain-samaj/admin/static/js/305.150a5384.chunk.js.map",
+    "385.9c4bb65d.chunk.css.map": "/jain-samaj/admin/static/css/385.9c4bb65d.chunk.css.map",
+    "260.81cacc65.chunk.css.map": "/jain-samaj/admin/static/css/260.81cacc65.chunk.css.map",
+    "306.27e9652a.chunk.css.map": "/jain-samaj/admin/static/css/306.27e9652a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d5f4ba3.css",
+    "static/js/main.037256ae.js"
+  ]
+}
