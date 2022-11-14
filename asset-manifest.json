@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jain-samaj/admin/static/css/main.96897aa4.css",
-    "main.js": "/jain-samaj/admin/static/js/main.dc93a2d6.js",
-    "static/js/676.2e160798.chunk.js": "/jain-samaj/admin/static/js/676.2e160798.chunk.js",
+    "main.css": "/jain-samaj/admin/static/css/main.59bdb521.css",
+    "main.js": "/jain-samaj/admin/static/js/main.3aa62b9e.js",
+    "static/js/106.4c62cc36.chunk.js": "/jain-samaj/admin/static/js/106.4c62cc36.chunk.js",
     "static/js/94.060f9405.chunk.js": "/jain-samaj/admin/static/js/94.060f9405.chunk.js",
     "static/js/787.3ce4cc4d.chunk.js": "/jain-samaj/admin/static/js/787.3ce4cc4d.chunk.js",
-    "static/js/565.68903569.chunk.js": "/jain-samaj/admin/static/js/565.68903569.chunk.js",
-    "static/js/174.ca764205.chunk.js": "/jain-samaj/admin/static/js/174.ca764205.chunk.js",
+    "static/js/565.fb80301b.chunk.js": "/jain-samaj/admin/static/js/565.fb80301b.chunk.js",
+    "static/js/649.be10f221.chunk.js": "/jain-samaj/admin/static/js/649.be10f221.chunk.js",
     "index.html": "/jain-samaj/admin/index.html",
-    "main.96897aa4.css.map": "/jain-samaj/admin/static/css/main.96897aa4.css.map",
-    "main.dc93a2d6.js.map": "/jain-samaj/admin/static/js/main.dc93a2d6.js.map",
-    "676.2e160798.chunk.js.map": "/jain-samaj/admin/static/js/676.2e160798.chunk.js.map",
+    "main.59bdb521.css.map": "/jain-samaj/admin/static/css/main.59bdb521.css.map",
+    "main.3aa62b9e.js.map": "/jain-samaj/admin/static/js/main.3aa62b9e.js.map",
+    "106.4c62cc36.chunk.js.map": "/jain-samaj/admin/static/js/106.4c62cc36.chunk.js.map",
     "94.060f9405.chunk.js.map": "/jain-samaj/admin/static/js/94.060f9405.chunk.js.map",
     "787.3ce4cc4d.chunk.js.map": "/jain-samaj/admin/static/js/787.3ce4cc4d.chunk.js.map",
-    "565.68903569.chunk.js.map": "/jain-samaj/admin/static/js/565.68903569.chunk.js.map",
-    "174.ca764205.chunk.js.map": "/jain-samaj/admin/static/js/174.ca764205.chunk.js.map"
+    "565.fb80301b.chunk.js.map": "/jain-samaj/admin/static/js/565.fb80301b.chunk.js.map",
+    "649.be10f221.chunk.js.map": "/jain-samaj/admin/static/js/649.be10f221.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96897aa4.css",
-    "static/js/main.dc93a2d6.js"
+    "static/css/main.59bdb521.css",
+    "static/js/main.3aa62b9e.js"
   ]
 }
